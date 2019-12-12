@@ -97,7 +97,7 @@ final limparBeiraLago = Event(
   imagePath: "lib/assets/event_images/lago3.png",
   title: "Limpeza do Lago Sereno",
   description:
-      "O Lago Sereno está em mal estado. Precisamos retirar o lixo deixado pelos campistas!\mData: 02/12\nHorário: 13:30h",
+      "O Lago Sereno está em mal estado. Precisamos retirar o lixo deixado pelos campistas!\nData: 02/12\nHorário: 13:30h",
   location: "Lago Sereno - Linha Azul",
   duration: "3h",
   punchLine1: "Vamos limpar?",

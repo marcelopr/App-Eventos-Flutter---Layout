@@ -31,7 +31,7 @@ final TextStyle eventTitleTextStyle = TextStyle(
 );
 
 final TextStyle eventWhiteTitleTextStyle = TextStyle(
-  fontSize: 22.0,
+  fontSize: 28.0,
   fontWeight: FontWeight.bold,
   color: Color(0xFFFFFFFF),
 );
